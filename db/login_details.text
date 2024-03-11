@@ -1,0 +1,6 @@
+Admin Login details:
+username Admin
+usertype: admin 
+password: admin
+
+db_name: lecturer_eva_db
